@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DacoidAssignment/static/css/main.b5a77772.css",
+    "main.js": "/DacoidAssignment/static/js/main.6ab2ae1a.js",
+    "static/js/453.7160a71c.chunk.js": "/DacoidAssignment/static/js/453.7160a71c.chunk.js",
+    "static/media/ManCycling.png": "/DacoidAssignment/static/media/ManCycling.0667db17853ed3f292c4.png",
+    "static/media/WomanLifting.png": "/DacoidAssignment/static/media/WomanLifting.a08a132ce59761c157cd.png",
+    "static/media/WomanYoga.png": "/DacoidAssignment/static/media/WomanYoga.c0fa16acedf336c694c5.png",
+    "static/media/ManRunning.png": "/DacoidAssignment/static/media/ManRunning.8be6f23565642b3f3652.png",
+    "static/media/WomanLunges.png": "/DacoidAssignment/static/media/WomanLunges.868e766d2671044eba75.png",
+    "static/media/Camera.svg": "/DacoidAssignment/static/media/Camera.46d84014f33a0ee9e534e10de090728d.svg",
+    "static/media/Home.svg": "/DacoidAssignment/static/media/Home.96ca86564b05c66fa14dd9babd51df5d.svg",
+    "static/media/Google.svg": "/DacoidAssignment/static/media/Google.02261911200b8dcc4cad2f9ee1c10aed.svg",
+    "static/media/analytics.svg": "/DacoidAssignment/static/media/analytics.bc58040e6b9936a86d7ecabc47f4d22b.svg",
+    "static/media/Profile.svg": "/DacoidAssignment/static/media/Profile.5a9642aa4d8fce84549b589365f01b09.svg",
+    "index.html": "/DacoidAssignment/index.html",
+    "static/media/Facebook.svg": "/DacoidAssignment/static/media/Facebook.046b29af8aae1ef79801f9b44abb5ec0.svg",
+    "main.b5a77772.css.map": "/DacoidAssignment/static/css/main.b5a77772.css.map",
+    "main.6ab2ae1a.js.map": "/DacoidAssignment/static/js/main.6ab2ae1a.js.map",
+    "453.7160a71c.chunk.js.map": "/DacoidAssignment/static/js/453.7160a71c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a77772.css",
+    "static/js/main.6ab2ae1a.js"
+  ]
+}
