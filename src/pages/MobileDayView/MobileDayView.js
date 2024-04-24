@@ -66,7 +66,7 @@ const MobileDayView = () => {
     <div className="p-4 relative">
       <div className="flex">
         <div className="flex-none w-full relative">
-          <div className="flex flex-col justify-between h-full w-full mb-20">{renderTimeSlots()}</div>
+          <div className="flex flex-col justify-between h-full w-full mb-32">{renderTimeSlots()}</div>
         </div>
         <div className="absolute pl-4 w-[70%] h-full">
           {renderEvents()}

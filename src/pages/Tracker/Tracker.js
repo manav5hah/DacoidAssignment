@@ -106,7 +106,7 @@ function Tracker() {
             <div className='mt-4 flex items-center justify-start font-semibold text-base'>
                 What Do You Want to Train
             </div>
-            <div className='flex items-center mt-4 h-32 rounded-xl bg-[#8CB1FF]/[0.6]'>
+            <div className='flex items-center mt-4 mb-32 h-32 rounded-xl bg-[#8CB1FF]/[0.6]'>
                 <div className=''>
                     <div className='mx-4 my-2 font-medium text-sm'>
                         Full Body Workout
