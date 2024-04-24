@@ -52,7 +52,7 @@ const MobileDayView = () => {
     return events.map(event => (
       <div
         key={event.id}
-        className="flex items-center justify-start bg-gradient-to-l from-[#D3A4F4] to-[#E9B1E0] text-white p-2 rounded-3xl mb-2 ml-[20%] z-10 w-full absolute"
+        className="absolute bg-gradient-to-l from-[#D3A4F4] to-[#E9B1E0] text-white p-2 rounded-3xl ml-[20%] z-10 w-full"
         style={{
           ...calculateEventPosition(event.start, event.end), 
         }}
@@ -66,7 +66,7 @@ const MobileDayView = () => {
     <div className="p-4 relative">
       <div className="flex">
         <div className="flex-none w-full relative">
-          <div className="flex flex-col justify-between h-full w-full mb-32">{renderTimeSlots()}</div>
+          <div className="flex flex-col justify-between h-[48rem] w-full mb-32">{renderTimeSlots()}</div>
         </div>
         <div className="absolute pl-4 w-[70%] h-full">
           {renderEvents()}
