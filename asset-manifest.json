@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DacoidAssignment/static/css/main.f8faf311.css",
-    "main.js": "/DacoidAssignment/static/js/main.5a77b387.js",
+    "main.css": "/DacoidAssignment/static/css/main.cf6fde3d.css",
+    "main.js": "/DacoidAssignment/static/js/main.bc3acd7c.js",
     "static/js/453.7160a71c.chunk.js": "/DacoidAssignment/static/js/453.7160a71c.chunk.js",
     "static/media/ManCycling.png": "/DacoidAssignment/static/media/ManCycling.0667db17853ed3f292c4.png",
     "static/media/WomanLifting.png": "/DacoidAssignment/static/media/WomanLifting.a08a132ce59761c157cd.png",
@@ -15,12 +15,12 @@
     "static/media/Profile.svg": "/DacoidAssignment/static/media/Profile.5a9642aa4d8fce84549b589365f01b09.svg",
     "index.html": "/DacoidAssignment/index.html",
     "static/media/Facebook.svg": "/DacoidAssignment/static/media/Facebook.046b29af8aae1ef79801f9b44abb5ec0.svg",
-    "main.f8faf311.css.map": "/DacoidAssignment/static/css/main.f8faf311.css.map",
-    "main.5a77b387.js.map": "/DacoidAssignment/static/js/main.5a77b387.js.map",
+    "main.cf6fde3d.css.map": "/DacoidAssignment/static/css/main.cf6fde3d.css.map",
+    "main.bc3acd7c.js.map": "/DacoidAssignment/static/js/main.bc3acd7c.js.map",
     "453.7160a71c.chunk.js.map": "/DacoidAssignment/static/js/453.7160a71c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8faf311.css",
-    "static/js/main.5a77b387.js"
+    "static/css/main.cf6fde3d.css",
+    "static/js/main.bc3acd7c.js"
   ]
 }
